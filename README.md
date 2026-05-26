@@ -25,7 +25,6 @@ The model predicts the next word from user input and can also generate the next 
 * PyTorch
 * FastAPI
 * Streamlit
-* Docker
 
 ---
 
@@ -56,16 +55,8 @@ The model predicts the next word from user input and can also generate the next 
 
 
 ---
-
-## Docker 🐳
-
-```bash id="i4tr4j"
-docker build -t next-word-prediction .
-docker run -p 8000:8000 -p 8501:8501 next-word-prediction
-```
-
+NOTE this can be improved with more data more traing 
 ---
-
 ## Author 👨‍💻
 
 Kumar Ayush
