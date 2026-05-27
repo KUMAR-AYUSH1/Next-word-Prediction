@@ -57,6 +57,7 @@ The model predicts the next word from user input and can also generate the next 
 ---
 NOTE this can be improved with more data more traing 
 ---
-## Author 👨‍💻
-
+## Author 👨‍💻 
 Kumar Ayush
+<img width="1698" height="878" alt="image" src="https://github.com/user-attachments/assets/afb714c8-c2cd-4699-88d8-4dc65a2d1dc1" />
+
